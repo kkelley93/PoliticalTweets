@@ -1,5 +1,6 @@
 # PoliticalTweets
 
+Sentiment Analysis Queries from: https://github.com/kvangundy/basic-sentiment-analyzer
 In order to use neo4j to run sentiment analysis:
   import the sentimentdict.csv.
   run the importdictionary.cypher by querying line by line.

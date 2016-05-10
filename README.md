@@ -71,8 +71,8 @@ In order to use Neo4j to run sentiment analysis:
 	
 	This was located at */usr/share/neo4j/import* in our linux installation
   
-* Run the *importdictionary.cypher* by querying it line by line
-* Run the *sentimentanalysisscript.cypher* line by line except the first two files, and replace {word} with text
+* Run the *importDictionary.cypher* by querying it line by line
+* Run the *sentimentAnalysisScript.cypher* line by line except the first two files, and replace {word} with text
 
 Additional queries for extracting data for analysis can be found in the *Neo4j Queries.cql* file
 
